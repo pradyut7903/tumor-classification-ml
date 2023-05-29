@@ -13,7 +13,7 @@ Fisher's Discriminant: Fisher's Discriminant, also known as Linear Discriminant 
 Logistic Regression: Logistic Regression is a probabilistic classification algorithm that models the relationship between the features and the probability of a tumor being benign or malignant. It estimates the parameters using maximum likelihood estimation and applies a sigmoid function to predict class probabilities.
 
 ## Results
-After running the main script, the classification results will be displayed, including accuracy, precision, recall, and F1-score for each algorithm. These metrics will help evaluate the performance of the classifiers and provide insights into their effectiveness for tumor classification.
+After running the main script, the classification results will be displayed, including accuracy, precision, and recall for each algorithm. These metrics will help evaluate the performance of the classifiers and provide insights into their effectiveness for tumor classification.
 
 ## Contributing
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request. Your feedback is highly appreciated.
